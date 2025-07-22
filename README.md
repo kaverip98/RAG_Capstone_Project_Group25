@@ -9,11 +9,13 @@ Dataset : https://huggingface.co/datasets/rungalileo/ragbench
 Dataset Description : RAG Bench is a large-scale benchmark dataset specifically designed for
 training and evaluating RAG systems. It contains 100k examples spanning five industry-specific
 domains:
+
 ● Biomedical Research
 ● General Knowledge
 ● Legal
 ● Customer Support
 ● Finance
+
 The dataset supports various RAG task types and includes evaluation metrics such as context
 relevance, context utilization, answer faithfulness and answer completeness.
 The dataset samples are sourced from real-world industry corpora, such as user manuals, making
